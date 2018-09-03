@@ -71,3 +71,15 @@ TypeError: 'str' object does not support item assignment
 >>> len(s)
 34
 ```
+
+#### list
+
+复合数据类型之一：列表，基本就是 js 的数组，切片，赋值，浅拷贝，嵌套等等。
+
+`range(int1,int2,int3)`函数生成一个可迭代列表，`list()`也是一个迭代器
+
+```py
+>>> list(range(0,101,10))
+
+[0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+```
