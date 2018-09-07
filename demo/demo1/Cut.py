@@ -51,8 +51,3 @@ if __name__ == "__main__":
 
         save_change(save_dir, 3, 0, size[1]/2, size[0]/2, size[1], )
         save_change(save_dir, 4, size[0]/2, size[1]/2, size[0], size[1])
-
-        # save_change(save_dir, 1, 8, 44, 72, 105)
-        # save_change(save_dir, 2, 80, 44, 144, 105)
-        # save_change(save_dir, 3, 150, 44, 216, 105)
-        # save_change(save_dir, 4, 223, 44, 287, 105)
